@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome juiey","text":"<pre><code>python\n</code></pre>"},{"location":"page2/","title":"this about","text":"<p>afdashg</p>"}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome juiey","text":""},{"location":"page2/","title":"this about","text":"<p>afdashg</p>"}]}
